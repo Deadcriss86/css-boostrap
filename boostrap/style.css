@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  color: white;
+}
+.mirow {
+  background-color: rgb(58, 11, 58);
+  color: white;
+  text-align: center;
+}
+
+.micol {
+  text-align: center;
+  border: solid blue;
+  color: white;
+}

@@ -1,0 +1,16 @@
+.containerFlex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.cajaRoja{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    padding: 1em;
+    text-align: center;
+}
